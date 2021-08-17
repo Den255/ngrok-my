@@ -1,1 +1,1 @@
-web: ngrok
+web: ./bin/ngrokd -domain="ngrok-my.herokuapp.com"
