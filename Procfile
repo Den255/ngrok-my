@@ -1,0 +1,1 @@
+./bin/ngrokd -domain="ngrok-my.herokuapp.com"
