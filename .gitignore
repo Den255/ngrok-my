@@ -1,6 +1,6 @@
 *.swp
 *.zip
-bin/
+# bin/
 pkg/
 # src/code.google.com
 # src/github.com
